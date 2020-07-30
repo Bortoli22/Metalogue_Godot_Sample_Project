@@ -1,0 +1,15 @@
+[gd_scene format=2]
+
+[node name="Metalogue Hub" type="Control"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="."]
+margin_left = 1.68198
+margin_top = 2.49112
+margin_right = 37.682
+margin_bottom = 22.4911
+text = "wACKY bUtton"
